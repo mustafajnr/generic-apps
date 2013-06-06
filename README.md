@@ -4,4 +4,4 @@ This is a collection of generic applications; it's purpose is to be the cornerst
 
 APPLICATIONS SO FAR
 
-1. Generic Explorer
+1. Generic File Explorer
